@@ -52,6 +52,9 @@ python main.py \
 -Euler Phase Conversion Attention Mechanism(EPCAM)
 ![EPCAM](figs/EPCAM.png)
 
+We are currently working on the release of the EPA-V2 research. Please stay tuned for further updates.
+
+
 ## 6. The paper
 
 If the code or method help you in the research, please cite the following paper:
